@@ -1,2 +1,2 @@
 # blog-code-examples
-blog.traveltimeplatform.com
+https://blog.traveltimeplatform.com
